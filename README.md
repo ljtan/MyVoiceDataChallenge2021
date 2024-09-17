@@ -1,1 +1,1 @@
-Note: Data Withheld for privacy issue
+Received first place by leveraging NLP techniques to analyze sentiment in text message surveys regarding COVID-19. Automated data cleaning, text encoding, and hierarchical clustering using BERT to improve the efficiency of research and generate deeper insights.
